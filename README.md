@@ -1,4 +1,4 @@
-<img width="960" height="504" alt="gazebo" src="https://github.com/user-attachments/assets/54d663a6-e164-4bef-8854-d3e6a2feb9e6" /># ros2-r2d2-sim
+# ros2-r2d2-sim
 
 An R2D2-inspired differential drive robot built with ROS2, URDF, Gazebo, and RViz2 — my first hands-on project for learning robot modeling, TF trees, and the ROS2 simulation pipeline end-to-end.
 
@@ -20,11 +20,9 @@ This project started as a way to understand how ROS2 packages are structured and
 
 ## Screenshots
 
-| Gazebo                                     | RViz2                                 |
-| ------------------------------------------ | ------------------------------------- |
-| <img width="960" height="504" alt="gazebo" src="https://github.com/user-attachments/assets/e703f2cf-65a3-45d4-a462-9bb84f803ad8" />
- | <img width="960" height="540" alt="rviz" src="https://github.com/user-attachments/assets/f4a59508-0c19-40cc-8ef6-fd373f53ecbc" />
- |
+| Gazebo | RViz2 |
+|---|---|
+| <img width="960" height="504" alt="gazebo" src="https://github.com/user-attachments/assets/e703f2cf-65a3-45d4-a462-9bb84f803ad8" /> | <img width="960" height="540" alt="rviz" src="https://github.com/user-attachments/assets/f4a59508-0c19-40cc-8ef6-fd373f53ecbc" /> |
 
 ---
 
