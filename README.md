@@ -40,7 +40,6 @@ my_package/
 │   └── rviz.png
 ├── my_package/
 │   ├── move_robot.py
-│   ├── listener.py
 │   └── __init__.py
 ├── package.xml
 ├── setup.py
